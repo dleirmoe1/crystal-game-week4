@@ -1,0 +1,22 @@
+{
+  "name": "crystal-game-week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dleirmoe1/crystal-game-week4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dleirmoe1/crystal-game-week4/issues"
+  },
+  "homepage": "https://github.com/dleirmoe1/crystal-game-week4#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
